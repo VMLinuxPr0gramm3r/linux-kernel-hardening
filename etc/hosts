@@ -1,0 +1,8 @@
+# Do not remove the following line, or various programs
+# that require network functionality will fail.
+127.0.0.1  localhost
+# replace <hostname> with your hostname
+127.0.1.1  <hostname>
+::1        localhost ip6-localhost ip6-loopback
+ff02::1    ip6-allnodes
+ff02::2    ip6-allrouters
